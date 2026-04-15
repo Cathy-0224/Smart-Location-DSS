@@ -35,6 +35,6 @@
 ### 📚 專案文件 (Documentation)
 本專案包含完整的演算法邏輯說明與系統分析報告：
 
-* **📄 [專案開發報告 (Project Report)](決議系統Assignment.pdf)**：包含完整的 AHP/TOPSIS 數學模型推導。
+* **📄 [專案開發報告 (Project Report)](決策系統Assignment.pdf)**：包含完整的 AHP/TOPSIS 數學模型推導。
 * **📊 [系統分析簡報 (Slides)](決策系統分析.pdf)**：包含詳細的選址策略與靈敏度分析結果。
 * **📁 [AHP 權重推導與一致性檢定表 (AHP Weight Calculation)](DSS_final_template_3.xlsx)**：成對比較矩陣 (Pairwise Comparison Matrix)、五大指標權重計算過程，以及一致性比率的完整檢算紀錄 。
